@@ -7,6 +7,7 @@ new types of data stuctures, new types of software infrastructure, and new commu
 * [MNIST data sets](https://github.com/heanuea/MNIST.git)
 * [Jupyter-pyplot and Numpy](https://github.com/heanuea/Problem-set-Jupyter-pyplot-and-numpy)
 * [TensorFlow/Keras](https://github.com/heanuea/Tensorflow)
+* [Mnist Digit Reader](https://github.com/heanuea/Mnist-Digit-Reader-.git)
 
 ### **_Python_** 
 ### **_Tensorflow_** 
